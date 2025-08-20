@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DF40HC_3.0_-100DS-0.4V_58")(type "KiCad")(uri "${KIPRJMOD}/symbols/DF40HC_3.0_-100DS-0.4V_58.kicad_sym")(options "")(descr ""))
+  (lib (name "BMI088")(type "KiCad")(uri "${KIPRJMOD}/symbols/BMI088.kicad_sym")(options "")(descr ""))
+  (lib (name "LSF0102DCTR")(type "KiCad")(uri "${KIPRJMOD}/symbols/LSF0102DCTR.kicad_sym")(options "")(descr ""))
+  (lib (name "LSM303AGRTR")(type "KiCad")(uri "${KIPRJMOD}/symbols/LSM303AGRTR.kicad_sym")(options "")(descr ""))
+  (lib (name "LSF0204RUTR")(type "KiCad")(uri "${KIPRJMOD}/symbols/LSF0204RUTR.kicad_sym")(options "")(descr ""))
+  (lib (name "DRV8212PDSGR")(type "KiCad")(uri "${KIPRJMOD}/symbols/DRV8212PDSGR.kicad_sym")(options "")(descr ""))
+  (lib (name "XGL4030-472MEC")(type "KiCad")(uri "${KIPRJMOD}/symbols/XGL4030-472MEC.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS62143RGTR")(type "KiCad")(uri "${KIPRJMOD}/symbols/TPS62143RGTR.kicad_sym")(options "")(descr ""))
+  (lib (name "PA4332.222NLT")(type "KiCad")(uri "${KIPRJMOD}/symbols/PA4332.222NLT.kicad_sym")(options "")(descr ""))
+)
