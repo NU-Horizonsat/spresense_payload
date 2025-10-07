@@ -9,4 +9,6 @@
   (lib (name "XGL4030-472MEC")(type "KiCad")(uri "${KIPRJMOD}/symbols/XGL4030-472MEC.kicad_sym")(options "")(descr ""))
   (lib (name "TPS62143RGTR")(type "KiCad")(uri "${KIPRJMOD}/symbols/TPS62143RGTR.kicad_sym")(options "")(descr ""))
   (lib (name "PA4332.222NLT")(type "KiCad")(uri "${KIPRJMOD}/symbols/PA4332.222NLT.kicad_sym")(options "")(descr ""))
+  (lib (name "CMS04(TE12L,Q,M)")(type "KiCad")(uri "${KIPRJMOD}/symbols/CMS04(TE12L,Q,M).kicad_sym")(options "")(descr ""))
+  (lib (name "LIS2MDLTR")(type "KiCad")(uri "${KIPRJMOD}/symbols/LIS2MDLTR.kicad_sym")(options "")(descr ""))
 )
